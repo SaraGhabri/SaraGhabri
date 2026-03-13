@@ -1,6 +1,3 @@
-<div align="center">
-  font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Sara+Ghabri;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Microservices" alt="Typing SVG" />
-</div>
 
 <h3 align="center"> Passionate about AI, Microservices & Clean Architecture </h3>
 
