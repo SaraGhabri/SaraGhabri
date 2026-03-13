@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Sara+Ghabri;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Microservices" alt="Typing SVG" />
+  font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Sara+Ghabri;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Microservices" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💜 Passionate about AI, Microservices & Clean Architecture 💜</h3>
+<h3 align="center"> Passionate about AI, Microservices & Clean Architecture </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarah-ghabri-68b02b23b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -113,19 +113,10 @@ const sara = {
 
 ---
 
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SaraGhabri/SaraGhabri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaraGhabri&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
   
-  ### 💜 Thanks for visiting! Let's build something amazing together! 💜
+  ### Thanks for visiting! Let's build something amazing together! 
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
